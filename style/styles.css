@@ -1,3 +1,10 @@
+/* start check if css is sourced*/
+body {
+background-color: grey;
+}
+/* end check if css is sourced*/
+
+
 .color-cube {
   width: 100px;
   height: 100px;
