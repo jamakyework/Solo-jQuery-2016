@@ -27,7 +27,18 @@ Gif not quite big enough? See the full video [here](https://dl.dropboxuserconten
     <button class="color-button" data-color="yellow">Yellow</button>
     <button class="color-button" data-color="green">Green</button>
     <button class="color-button" data-color="blue">Blue</button>
-[] will need to connect buttons to logic with class
-[] will need divs to output color (already in html)
+[] will need to collect color clicked from button
+[x] will need divs to output color (already in html)
     <div class="container">
+[] will need to connect buttons to logic with class  
+    (everytime button is clicked will need to create new div with corresponding color of button clicked)
 [] will need to update counter each time button is clicked
+
+//need to have a function that goes something like
+// if color === red
+// display red
+// else if color === yellow
+// display yellow
+// else if color === green
+// display green
+// else display blue
