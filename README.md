@@ -20,7 +20,7 @@ Gif not quite big enough? See the full video [here](https://dl.dropboxuserconten
 <!--  <source src="https://dl.dropboxusercontent.com/u/86491916/Exp-Trm-Final.mp4" type="video/mp4">-->
 <!--</video>-->
 
-[]creating an application that will create colored div tag each time corresponding   
+[x]creating an application that will create colored div tag each time corresponding   
   color is clicked
 [x] will need buttons to click (already in html)
     <button class="color-button" data-color="red">Red</button>
@@ -30,9 +30,9 @@ Gif not quite big enough? See the full video [here](https://dl.dropboxuserconten
 [] will need to collect color clicked from button
 [x] will need divs to output color (already in html)
     <div class="container">
-[] will need to connect buttons to logic with class  
+[x] will need to connect buttons to logic with class  
     (everytime button is clicked will need to create new div with corresponding color of button clicked)
-[] will need to update counter each time button is clicked
+[x] will need to update counter each time button is clicked
 
 //need to have a function that goes something like
 // if color === red
